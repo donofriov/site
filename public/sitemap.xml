@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/posts/</loc>
+    <lastmod>2021-02-09T13:05:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/posts/create-raspberry-pi-os-boot-drives/</loc>
+    <lastmod>2021-02-09T13:05:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/</loc>
+    <lastmod>2021-02-09T13:05:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/posts/raspberry-pi-kubernetes-cluster/</loc>
+    <lastmod>2021-02-09T12:15:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.vincentdonofr.io/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent D&#39;Onofrio</title>
+    <link>http://blog.vincentdonofr.io/</link>
+    <description>Recent content on Vincent D&#39;Onofrio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Feb 2021 13:05:46 +0100</lastBuildDate><atom:link href="http://blog.vincentdonofr.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Raspberry Pi Operating System Boot Drive(s)</title>
+      <link>http://blog.vincentdonofr.io/posts/create-raspberry-pi-os-boot-drives/</link>
+      <pubDate>Tue, 09 Feb 2021 13:05:46 +0100</pubDate>
+      
+      <guid>http://blog.vincentdonofr.io/posts/create-raspberry-pi-os-boot-drives/</guid>
+      <description>Download Etcher
+Download Raspberry Pi OS Lite
+ Since this will be a kubernetes node, I don&amp;rsquo;t need the Raspberry Pi dektop installed Unzip the downloaded file  Insert SD card into SD card reader (SanDisk Extreme 32 GB A1 U3)
+Etcher Steps
+ Click Flash from file Select the downloaded .img file Click target (the SD card) Click Flash! (enter password if needed and accept permission requets)  Setup ssh</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Kubernetes Cluster</title>
+      <link>http://blog.vincentdonofr.io/posts/raspberry-pi-kubernetes-cluster/</link>
+      <pubDate>Tue, 09 Feb 2021 12:15:27 +0100</pubDate>
+      
+      <guid>http://blog.vincentdonofr.io/posts/raspberry-pi-kubernetes-cluster/</guid>
+      <description>Hardware  1 Raspberry Pi 3 B+ (this is used for the router and I already owned it) 3 Raspberry Pi 4 (1 master, 2 worker nodes) 3 SD Cards  Setup Boot Drives Find the boot drive instructions here</description>
+    </item>
+    
+  </channel>
+</rss>
